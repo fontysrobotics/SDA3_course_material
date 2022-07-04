@@ -1,0 +1,6 @@
+You need to make a countdown calendar.
+You therefore need the tkinter and datetime library.
+
+The countdown calendar has to read events from a file.
+Also, the countdown calendar has to calculate how many days there are between the current date and the event from the file.
+Both the event name and the number of days before the event happens have to be displayed on an tkinter screen.
