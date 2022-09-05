@@ -1,7 +1,0 @@
-You need to make a user interface and use the tkinter library.
-
-The User interface reads from a dictionary on file, in which "countries" and "capital cities" are coupled.
-
-When the user provides the country, the UI returns the capital city.
-
-When the dictionary is not yet familiar with the country, the UI asks the user for the solution and stores it.

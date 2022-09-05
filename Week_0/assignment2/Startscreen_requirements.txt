@@ -1,9 +1,0 @@
-You need to make a Graphical User Interface.
-You therefore need the tkinter library
-
-In the GUI, at least, there has to be:
-- a text question
-- 2 different shapes
-- 3 different colours
-- an "Exit" button, with which the user can close the application.
-
